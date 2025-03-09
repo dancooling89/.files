@@ -8,3 +8,6 @@ My zsh profile, run stow zsh to symlink to the correct locations
 
 ## hyprland
 My hyprland related configs, run stow hyprland to symlink to the correct locations
+
+## wezterm
+My wezterm related configs, run stow wezterm to symlink to the correct locations

@@ -21,3 +21,6 @@ eval "$(ssh-agent -s)"
 
 # Add the GPG signing key
 export GPG_TTY=$(tty)
+
+# Add starship prompt
+eval "$(starship init zsh)"

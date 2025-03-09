@@ -5,3 +5,6 @@ Clone this repo to ~/repos/.files and stow should work out of the box, or, if yo
 
 ## zsh
 My zsh profile, run stow zsh to symlink to the correct locations
+
+## hyprland
+My hyprland related configs, run stow hyprland to symlink to the correct locations

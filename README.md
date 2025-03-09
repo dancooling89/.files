@@ -11,3 +11,6 @@ My hyprland related configs, run stow hyprland to symlink to the correct locatio
 
 ## wezterm
 My wezterm related configs, run stow wezterm to symlink to the correct locations
+
+## starship
+My starship config files, with catppuccin themes, run stow stow starship to symlink to the correct locations

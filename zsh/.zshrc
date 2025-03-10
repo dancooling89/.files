@@ -9,6 +9,9 @@ bindkey -v
 # The following lines were added by compinstall
 zstyle :compinstall filename '/home/dan/.zshrc'
 
+# Add nerdfetch
+nerdfetch
+
 autoload -Uz compinit
 compinit
 # End of lines added by compinstall
